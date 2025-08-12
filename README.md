@@ -1,4 +1,3 @@
-````markdown
 # 🎯 KillProc Script - Installation and Usage Guide
 
 This script is designed to stop processes related to a specific switch on servers located in two different network locations (East and West).
